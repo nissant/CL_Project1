@@ -1,0 +1,27 @@
+add_start 1
+print
+del 0
+print
+add_end 2
+print
+add_start 5
+print
+add_after 7 5
+print
+add_start 4
+print
+add_end 10
+print
+add_end 8
+print
+add_after 8 8
+print
+index 2
+print
+del 4
+print
+index 8
+print
+add_start 3
+print
+Exit
